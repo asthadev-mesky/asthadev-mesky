@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django
 <!-- - 💞️ I’m looking to collaborate on -->
 <!-- - 📫 How to reach me ... -->
-- 😄 Pronouns: She/Her
+<!-- - 😄 Pronouns: She/Her -->
 <!---- ⚡ Fun fact: ... -->
 
 <!---
